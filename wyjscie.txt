@@ -1,0 +1,9 @@
+[
+{"slowo1":"cba","slowo2":"bca","anagram":"TAK"}
+{"slowo1":"cca","slowo2":"bba","anagram":"NIE"}
+{"slowo1":"fde","slowo2":"dfe","anagram":"TAK"}
+{"slowo1":"bba","slowo2":"abb","anagram":"TAK"}
+{"slowo1":"abc","slowo2":"cca","anagram":"NIE"}
+{"slowo1":"bbc","slowo2":"bbc","anagram":"TAK"}
+{"slowo1":"ccc","slowo2":"aaa","anagram":"NIE"}
+]
